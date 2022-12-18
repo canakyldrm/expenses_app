@@ -7,6 +7,7 @@ import 'package:expenses_app/widgets/transaction_list.dart';
 //import './widgets/new_transaction.dart';
 import './widgets/chart.dart';
 import './models/transaction.dart';
+import 'widgets/new_transaction.dart';
 
 void main() {
   //WidgetsFlutterBinding.ensureInitialized();
